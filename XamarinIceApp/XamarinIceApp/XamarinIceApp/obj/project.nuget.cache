@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "146cdr5V7JYx6mKXrFVHbT3lwsymp/G3HoSn+21u4QhSE1ESdaI6B3FVTEnPcpRhpJRAGtcoWxMMmDNl/JLCzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\boluk\\Source\\repos\\XamarinICEApp\\XamarinIceApp\\XamarinIceApp\\XamarinIceApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\boluk\\.nuget\\packages\\com.onesignal\\3.7.3\\com.onesignal.3.7.3.nupkg.sha512",
+    "C:\\Users\\boluk\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\boluk\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\boluk\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
